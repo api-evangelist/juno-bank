@@ -74,21 +74,21 @@ common:
     url: https://integracao.juno.com.br/docs/perguntas-frequentes/
   - type: Blog
     url: https://blog.juno.com.br
-  - type: SignUp
+  - type: Signup
     url: https://app.juno.com.br/#/signup
   - type: GitHubOrganization
     url: https://github.com/tamojuno
   - name: Direct Checkout Android SDK
-    type: SDK
+    type: SDKs
     url: https://github.com/tamojuno/direct-checkout-android
   - name: Direct Checkout iOS SDK
-    type: SDK
+    type: SDKs
     url: https://github.com/tamojuno/direct-checkout-ios
   - name: Direct Checkout Flutter SDK
-    type: SDK
+    type: SDKs
     url: https://github.com/tamojuno/direct-checkout-flutter
   - name: Juno Marketplace Module
-    type: SDK
+    type: SDKs
     url: https://github.com/tamojuno/juno-marketplace
   - type: LinkedIn
     url: https://www.linkedin.com/company/juno-pagamentos
