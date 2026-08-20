@@ -31,6 +31,22 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/juno-bank.
 tags:
   - Payments
   - Billing
+  - Subscription
+  - Pix
+  - Boleto
+  - Boleto Pix
+  - Credit Cards
+  - Marketplace
+  - Payment Split
+  - Banking as a Service
+  - Digital Account
+  - Webhook
+  - Brazil
+  - Fintech
+  - EBANX
+tags_raw:
+  - Payments
+  - Billing
   - Subscriptions
   - PIX
   - Boleto
